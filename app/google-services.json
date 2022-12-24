@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61676056911",
+    "project_id": "talktoyou-db3bc",
+    "storage_bucket": "talktoyou-db3bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61676056911:android:dfc5ec32e94a33d94a553a",
+        "android_client_info": {
+          "package_name": "com.example.talktou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61676056911-ueca97u0aq9rm3bvqfme6i7sh01bqbon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqfBoGtvNNOi4bv_ObCRgNa_r5BdjJw0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61676056911-ueca97u0aq9rm3bvqfme6i7sh01bqbon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
