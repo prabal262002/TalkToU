@@ -7,16 +7,13 @@
     tools:context=".login">
 
 
-
-
-
     <ImageView
         android:id="@+id/photo"
         android:layout_width="250dp"
         android:layout_height="250dp"
-        android:src="@drawable/ellissa"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp"
+        android:src="@drawable/logo"
 
         />
 
@@ -76,7 +73,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
         android:width="150dp"
-        android:background="@drawable/bt2draw"
+        android:background="@drawable/edt_button"
         android:text="Sign Up"
         android:textColor="@color/white"
         android:textSize="20sp" />

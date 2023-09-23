@@ -7,15 +7,13 @@
     tools:context=".Signup">
 
 
-
-
     <ImageView
         android:id="@+id/photo"
         android:layout_width="250dp"
         android:layout_height="250dp"
-        android:src="@drawable/ellissa"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp"
+        android:src="@drawable/logo"
 
         />
     <EditText
@@ -58,13 +56,13 @@
         android:background="@drawable/edt_background"
         />
     <Button
-        android:id="@+id/signin"
+        android:id="@+id/sign_in"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/password"
         android:width="150dp"
         android:layout_centerHorizontal="true"
-        android:text="Sign Up"
+        android:text="@string/sign_up"
         android:textSize="20sp"
         android:textColor="@color/white"
         android:background="@drawable/edt_button"

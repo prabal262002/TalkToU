@@ -50,6 +50,7 @@ class login : AppCompatActivity() {
             .addOnCompleteListener(this) { task ->
                 if (task.isSuccessful) {
                     val intent = Intent(this,MainActivity::class.java)
+                    finish()
                     startActivity(intent)
                 } else {
                     Toast.makeText(this,"User Doesn't exist!!",Toast.LENGTH_SHORT).show()

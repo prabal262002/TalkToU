@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">TalkToU</string>
     <string name="log_in">Log In</string>
+    <string name="prabal">Prabal</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_out">Log out</string>
+    <string name="type_a_message">"  Type a message"</string>
 </resources>
